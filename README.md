@@ -2,9 +2,14 @@
 setting up a new macbook pro for development; might as well record this for next time
 
 Credits to all the pages I browsed when assembling this list, most notably:
-http://alexw.me/2013/10/definitive-guid-to-development-mac-setup/
-https://github.com/mathiasbynens/dotfiles
+* http://alexw.me/2013/10/definitive-guid-to-development-mac-setup/
+* https://github.com/mathiasbynens/dotfiles
+* https://mallinson.ca/osx-web-development/
 
+#####Xcode, naturally
+```bash
+xcode-select --install
+```
 
 #####Install Homebrew
 ```bash
