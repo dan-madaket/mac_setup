@@ -39,7 +39,9 @@ Fork the original before using, these contain personally preferred settings.
 [iTerm 2](https://www.iterm2.com/)
 [SizeUp](http://www.irradiatedsoftware.com/sizeup)
 [Dash](https://kapeli.com/dash)
-[Alfred](https://www.alfredapp.com/)
+[Alfred](https://www.alfredapp.com/) settings in dropbox
+[XtraFinder](https://www.trankynam.com/xtrafinder/) settings in dropbox
+[MacDown](http://macdown.uranusjr.com/)
 
 ####ITerm 2 Setup
 Using Tomorrow Night Blue for theme:  https://github.com/chriskempson/tomorrow-theme
